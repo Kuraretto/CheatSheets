@@ -6,4 +6,8 @@ https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 cryptography:
 cyberchef
 
-
+Tools
+zsteg
+ghex
+exiftool
+grep
