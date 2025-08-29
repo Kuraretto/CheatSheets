@@ -7,7 +7,16 @@ cryptography:
 cyberchef
 
 Tools
+forensics:
 zsteg
 ghex
 exiftool
 grep
+
+web:
+burpsuit
+
+scaning:
+namap
+wireshark
+
