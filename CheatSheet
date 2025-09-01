@@ -20,3 +20,11 @@ scaning:
 namap
 wireshark
 
+Disk images:
+for challenges that use diskimages 
+bitlocker2john
+dislocker :- used to decrypt files
+
+
+passwords and hashing 
+hashcat 
