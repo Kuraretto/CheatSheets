@@ -16,6 +16,9 @@ grep
 stegogrphy
 zsteg
 foremost (used to find hidden files)
+steghide
+binwalk
+stegseek
 
 web:
 burpsuit
