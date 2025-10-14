@@ -33,6 +33,13 @@ Disk images:
 for challenges that use diskimages 
 bitlocker2john
 dislocker :- used to decrypt files
+autopsy
+
+forensic
+zeek
+wireshark
+tcpdump
+
 
 
 passwords and hashing 
