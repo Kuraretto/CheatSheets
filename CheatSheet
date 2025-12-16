@@ -29,6 +29,9 @@ burpsuit
 scaning:
 namap
 wireshark
+networkminer 
+zui
+
 
 Disk images:
 for challenges that use diskimages 
